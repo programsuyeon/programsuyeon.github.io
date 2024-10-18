@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name: "Happie Suyeon" # 블로그 닉네임
-  avatar: "/assets/images/happy.png" # 블로그 프로필 사진
+  avatar: "/assets/images/happy.jpg" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   email            : "programsuyeon@gmail.com"
