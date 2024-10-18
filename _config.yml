@@ -19,14 +19,14 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Suyeon's Cloud Note" # 상단 헤더에 보이는 블로그 명
+title: "Suyeon's IT Note" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: "The Journey to Cloud engineer" # site tagline that appears below site title in masthead
 name: "Happie Suyeon" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
 url: "https://programsuyeon.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "programsuyeon/programsuyeon.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -100,8 +100,8 @@ analytics:
 author:
   name: "Happie Suyeon" # 블로그 닉네임
   avatar: "/assets/images/happy.jpg" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
+  bio              : "Hi This is Suyeon!"
+  location         : "Sydney, Australia"
   email            : "programsuyeon@gmail.com"
 
   links: # 사이트 링크
