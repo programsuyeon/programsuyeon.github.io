@@ -62,7 +62,7 @@
     line-height: 1.5;
     margin-block-start: 0em;
     margin-block-end: 0em;
-  }
+    }
 
   img {
     width: 100%;
@@ -132,7 +132,7 @@
     align-items: center;
     background-attachment: fixed;
     margin-top: 25px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 
     @include breakpoint($large) {
       padding: 0px;
@@ -170,13 +170,15 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+    margin-left: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $menufont;
   /* 2022.01.23 font size & weight change*/
-  font-size: 1.5em;
-  font-weight: 600;
+  font-size: 1em;
+  font-weight: bold;
 }
 
 .author__bio {
@@ -326,9 +328,8 @@
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 3px;
+    padding-left: 1px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;

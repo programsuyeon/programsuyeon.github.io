@@ -100,7 +100,7 @@ analytics:
 author:
   name: "Happie Suyeon" # 블로그 닉네임
   avatar: "/assets/images/happy.jpg" # 블로그 프로필 사진
-  bio              : "Hi This is Suyeon!"
+  #bio              : "Hi This is Suyeon!"
   location         : "Sydney, Australia"
   email            : "programsuyeon@gmail.com"
 

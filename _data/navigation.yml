@@ -6,11 +6,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "GitHub"
-    url: https://github.com/programsuyeon
-
   - title: "Projects"
     url: /projects/
+    
+  - title: "GitHub"
+    url: https://github.com/programsuyeon
 
   # - title: "Categories"
   #   url: /categories/
@@ -21,7 +21,7 @@ categories:
   - title: "AWS Cloud School"
     children:
       - title: "Networking"
-        url: /categories/categories1/
+        url: /categories/networking/
       - title: "Categories2"
         url: /categories/categories2/
       - title: "Categories3"
