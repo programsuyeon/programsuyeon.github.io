@@ -22,7 +22,7 @@ locale: "ko-KR" #"en-US"
 title: "Suyeon's IT Note" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: "The Journey to Cloud engineer" # site tagline that appears below site title in masthead
-name: "Happie Suyeon" # 블로그 닉네임 설정
+name: "Suyeon" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
 url: "https://programsuyeon.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -98,7 +98,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Happie Suyeon" # 블로그 닉네임
+  name: "Suyeon" # 블로그 닉네임
   avatar: "/assets/images/happy.jpg" # 블로그 프로필 사진
   #bio              : "Hi This is Suyeon!"
   location         : "Sydney, Australia"
