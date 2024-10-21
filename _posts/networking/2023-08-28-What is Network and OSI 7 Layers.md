@@ -1,5 +1,5 @@
 ---
-title: "What is Network and OSI 7Layers"
+title: "Network and OSI 7Layers"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
@@ -90,7 +90,7 @@ As the data moves through each OSI layer, it’s called something different depe
 
 ---
 
-**<예시: 컴퓨터 B가 A로부터 전송을 받은 후>**
+<!-- **<예시: 컴퓨터 B가 A로부터 전송을 받은 후>**
 
 - 디캡슐레이션(De-capsulation): 전송 받은 정보를 데이터와 헤더가 분리되는 것, 헤더의 정보를 알기 위해서
 
@@ -180,4 +180,4 @@ IP범위: 0.0.0.0 ~ 255.255.255.255
             
             => 32x256x256 = $2^{21}$개의 네트워크
             
-    - 규모 = $2^{8}$
+    - 규모 = $2^{8}$ -->
