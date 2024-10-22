@@ -22,9 +22,11 @@ categories:
     children:
       - title: "Networking"
         url: /categories/networking/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "Linux"
+        url: /categories/linux/
+      - title: "Docker"
+        url: /categories/docker/
+      - title: "Kubernetes"
+        url: /categories/kubernetes/
+      - title: "Aws Public Cloud"
+        url: /categories/awscloud/
