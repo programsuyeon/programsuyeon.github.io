@@ -1,5 +1,5 @@
 ---
-title: "Network and OSI 7 Layers"
+title: "#1. Network and OSI 7 Layers"
 excerpt: "Network refers to a group of interconnected devices (such as computers, phones, and servers) that can share data with each other. Networking is the process of connecting"
 
 categories:
